@@ -8,6 +8,11 @@ public class MiniCalculadoraEjemplo {
         return Math.abs(numero);
     }
 
+    /**
+     * Calcula la raíz cuadrada de un número double.
+     * @param numero el número a evaluar
+     * @return la raíz cuadrada del número
+     */
     public static double raizCuadrada(double numero) {
         return Math.sqrt(numero);
     }

@@ -1,3 +1,11 @@
+/**
+ * La clase MiniCalculadoraEjemplo proporciona métodos estáticos para realizar
+ * operaciones matemáticas básicas como el cálculo del valor absoluto y la raíz cuadrada.
+
+ * @author Paula Ribot
+ * @version 1.0
+ */
+
 public class MiniCalculadoraEjemplo {
     /**
      * Calcula el valor absoluto de un número double.
